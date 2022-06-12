@@ -35,14 +35,23 @@ namespace Application.Services.QuoteManagment
                 CreatedAt=DateTime.Now,
             };
             var answers = new List<AnswersEntity>();
+            var totalTrue = 0;
             foreach(var i in model.answers)
             {
+                if (i.IsCorrect)
+                {
+                    totalTrue++;
+                }
                 answers.Add(new AnswersEntity
                 {
                     Answer=i.answer,
                     IsCorrect = i.IsCorrect,
                     CreatedAt=DateTime.Now,
                 });
+            }
+            if (totalTrue!=1)
+            {
+                throw new CustomException("there can only be 1 true answer", 400);
             }
             Quote.answersEntities = answers;
             await _quotesRepository.AddAsync(Quote);
