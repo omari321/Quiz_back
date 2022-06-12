@@ -1,0 +1,14 @@
+C:\Users\omari\source\repos\QuizApp\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\omari\source\repos\QuizApp\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+C:\Users\omari\source\repos\QuizApp\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\omari\source\repos\QuizApp\Infrastructure\bin\Debug\net6.0\ref\Infrastructure.dll
+C:\Users\omari\source\repos\QuizApp\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\omari\source\repos\QuizApp\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\omari\source\repos\QuizApp\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omari\source\repos\QuizApp\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\omari\source\repos\QuizApp\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\omari\source\repos\QuizApp\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\omari\source\repos\QuizApp\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\omari\source\repos\QuizApp\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\Users\omari\source\repos\QuizApp\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\omari\source\repos\QuizApp\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
